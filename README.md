@@ -1,5 +1,5 @@
-- Hi, I’m @EnzoPassini
-- I work on dacoder's Secret Society
+- Hi, I’m @InfinityLoopGames
+- I make games
 
 <!---
 EnzoPassini/EnzoPassini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

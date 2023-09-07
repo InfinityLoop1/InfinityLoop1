@@ -1,5 +1,5 @@
 - Hi, I’m @InfinityLoopGames
-- I make gameand host them on my website. Check my pinned repo to see the current site link.
+- I make games and host them on my website. Check my pinned repo to see the current site link.
 
 <!---
 EnzoPassini/EnzoPassini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

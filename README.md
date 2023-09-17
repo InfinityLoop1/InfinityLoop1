@@ -1,5 +1,5 @@
 - Hi, I’m @InfinityLoopGames
-- I make games and host them on my website. Check my pinned repo to see the current site link.
+- I make games and host them on my website (https://infinityloopgames.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 
 <!---
 EnzoPassini/EnzoPassini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

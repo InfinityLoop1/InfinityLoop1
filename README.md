@@ -6,7 +6,7 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
 
 I also collaborate with @dacoder123456m to help with his sites.
 
-![InfinityLoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoopGames&show_icons=true&theme=transparent&include_all_commits=true)
+![InfinityLoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoopGames&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityLoopGames&layout=compact&theme=transparent)
 
 

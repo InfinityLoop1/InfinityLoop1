@@ -6,11 +6,11 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
 
 I also collaborate with @dacoder123456m to help with his sites.
 
-<p align="center">![InfinityLoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoopGames&show_icons=true&theme=transparent)</p>
+![InfinityLoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoopGames&show_icons=true&theme=transparent)
 
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityLoopGames&layout=compact&theme=transparent)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityLoopGames&layout=compact&theme=transparent)
 
-<p align="center">![](https://komarev.com/ghpvc/?username=InfinityLoopGames&color=00fefc)</p>
+![](https://komarev.com/ghpvc/?username=InfinityLoopGames&color=00fefc)
 
 <p align="center">
   <a href="https://skillicons.dev">

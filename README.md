@@ -16,8 +16,6 @@ Languages known:
 
 ![InfinityLoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoopGames&show_icons=true&theme=transparent)
 
-![](https://komarev.com/ghpvc/?username=InfinityLoopGames&color=00fefc)
-
 <!---
 InfinityLoopGames/InfinityLoopGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

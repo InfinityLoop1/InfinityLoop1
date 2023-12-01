@@ -7,6 +7,7 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
 I also collaborate with @dacoder123456m to help with his sites.
 
 ## Languages known:
+### Common Langauges:
 - HTML: 80%
 - CSS: 70%
 - C#: 10%

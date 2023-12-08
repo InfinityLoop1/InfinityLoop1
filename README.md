@@ -1,4 +1,4 @@
-# Hi, I’m @InfinityLoopGames (he/him/his).
+# Hi, I’m InfinityLoop (he/him/his).
 
 ## I am an indie game developer usually coding at school when I'm not supposed to.
 

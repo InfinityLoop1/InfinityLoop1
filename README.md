@@ -13,7 +13,7 @@ I also collaborate with @dacoder123456m to help with his sites.
 - HTML: 80%
 - CSS: 70%
 - C#: 10%
-- JavaScript: 20%
+- JavaScript: 25%
 - Lua: 30%
 ### Rarer Languages:
 - Scratch: 100%

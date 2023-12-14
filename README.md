@@ -10,7 +10,7 @@ I also collaborate with @dacoder123456m to help with his sites.
 
 ## Languages known:
 ### Common Langauges:
-- HTML: 80%
+- HTML: 90%
 - CSS: 70%
 - C#: 10%
 - JavaScript: 25%

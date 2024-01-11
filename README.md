@@ -19,7 +19,7 @@ I also collaborate with @dacoder123456m to help with his sites.
 - Scratch/Turbowarp: 100%
 - Apple Shortcuts: 90%
 
-<div style="text-align: center;">
+<div style="float: center;">
   <img style="width: 100px; height: 100px;" src="images/html5.png">
   <img style="width: 100px; height: 100px;" src="images/css3.png">
   <img style="width: 100px; height: 100px;" src="images/unity.png">

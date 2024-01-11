@@ -12,12 +12,12 @@ I also collaborate with @dacoder123456m to help with his sites.
 ### Common Langauges:
 - HTML: 90%
 - CSS: 70%
-- C#: 10%
-- JavaScript: 25%
+- C#: 15%
+- JavaScript: 50%
 - Lua: 30%
 ### Rarer Languages:
 - Scratch: 100%
-- Apple Shortcuts: 80%
+- Apple Shortcuts: 90%
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoop1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!---

@@ -16,10 +16,19 @@ I also collaborate with @dacoder123456m to help with his sites.
 - JavaScript: 50%
 - Lua: 30%
 ### Rarer Languages:
-- Scratch: 100%
+- Scratch/Turbowarp: 100%
 - Apple Shortcuts: 90%
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoop1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div style="margin: auto;">
+  <img style="width: 250px; height: 250px;" src="html5.png">
+  <img style="width: 250px; height: 250px;" src="css3.png">
+  <img style="width: 250px; height: 250px;" src="unity.png">
+  <img style="width: 250px; height: 250px;" src="js.png">
+  <img style="width: 250px; height: 250px;" src="roblox.png">
+  <img style="width: 250px; height: 250px;" src="scratch.png">
+  <img style="width: 250px; height: 250px;" src="turbowarp.png">
+  <img style="width: 250px; height: 250px;" src="shortcuts.png">
+</div>
 <!---
 InfinityLoopGames/InfinityLoopGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

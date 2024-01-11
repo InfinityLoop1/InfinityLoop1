@@ -20,14 +20,14 @@ I also collaborate with @dacoder123456m to help with his sites.
 - Apple Shortcuts: 90%
 
 <div style="margin: auto;">
-  <img style="width: 250px; height: 250px;" src="images/html5.png">
-  <img style="width: 250px; height: 250px;" src="images/css3.png">
-  <img style="width: 250px; height: 250px;" src="images/unity.png">
-  <img style="width: 250px; height: 250px;" src="images/js.png">
-  <img style="width: 250px; height: 250px;" src="images/roblox.png">
-  <img style="width: 250px; height: 250px;" src="images/scratch.png">
-  <img style="width: 250px; height: 250px;" src="images/turbowarp.png">
-  <img style="width: 250px; height: 250px;" src="images/shortcuts.png">
+  <img style="width: 100px; height: 100px;" src="images/html5.png">
+  <img style="width: 100px; height: 100px;" src="images/css3.png">
+  <img style="width: 100px; height: 100px;" src="images/unity.png">
+  <img style="width: 100px; height: 100px;" src="images/js.png">
+  <img style="width: 100px; height: 100px;" src="images/roblox.png">
+  <img style="width: 100px; height: 100px;" src="images/scratch.png">
+  <img style="width: 100px; height: 100px;" src="images/turbowarp.png">
+  <img style="width: 100px; height: 100px;" src="images/shortcuts.png">
 </div>
 <!---
 InfinityLoopGames/InfinityLoopGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

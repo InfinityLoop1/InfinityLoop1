@@ -14,7 +14,7 @@ I also collaborate with @dacoder123456m to help with his sites.
 - CSS: 70%
 - C#: 15%
 - JavaScript: 50%
-- Lua: 30%
+- Lua: 10%
 ### Rarer Languages:
 - Scratch/Turbowarp: 100%
 - Apple Shortcuts: 90%

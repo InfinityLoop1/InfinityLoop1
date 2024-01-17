@@ -2,7 +2,7 @@
 
 ## I am an indie game developer usually coding at school when I'm not supposed to.
 
-I make games and host them on my website (https://infinityloop.is-a.dev) and my itch.io (https://infinityloopgames.itch.io).
+I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 
 I also sometimes make extensions for TurboWarp.
 

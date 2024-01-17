@@ -9,13 +9,11 @@ I also sometimes make extensions for TurboWarp.
 I also collaborate with @dacoder123456m to help with his sites.
 
 ## Languages known:
-### Common Langauges:
 - HTML: 90%
 - CSS: 70%
 - C#: 15%
 - JavaScript: 50%
 - Lua: 10%
-### Rarer Languages:
 - Scratch/Turbowarp: 100%
 - Apple Shortcuts: 90%
 

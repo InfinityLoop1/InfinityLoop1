@@ -1,7 +1,6 @@
 # Hi, I’m InfinityLoop (he/him/his).
 
 ## I am an indie game developer usually coding at school when I'm not supposed to.
-committing from math class
 
 I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 

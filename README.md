@@ -9,13 +9,13 @@ I also sometimes make extensions for TurboWarp.
 I also collaborate with @dacoder123456m to help with his sites.
 
 ## Languages known:
-- HTML: 90%
-- CSS: 70%
-- C#: 15%
-- JavaScript: 50%
+- HTML: 95%
+- CSS: 80%
+- C#: 25%
+- JavaScript: 55%
 - Lua: 10%
 - Scratch/Turbowarp: 100%
-- Apple Shortcuts: 90%
+- Apple Shortcuts: 95%
 
 <div align="center">
   <img style="width: 100px; height: 100px;" src="images/html5.png">

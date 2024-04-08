@@ -4,14 +4,10 @@
 
 I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 
-I also sometimes make extensions for TurboWarp.
-
-I also collaborate with @dacoder123456m to help with his sites.
-
 ## Languages known:
 - HTML: 95%
 - CSS: 80%
-- C#: 25%
+- C#: 30%
 - JavaScript: 55%
 - Lua: 10%
 - Scratch/Turbowarp: 100%

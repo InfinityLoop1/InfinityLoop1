@@ -5,13 +5,14 @@
 I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 
 ## Languages known:
-- HTML: 95%
-- CSS: 80%
-- C#: 30%
-- JavaScript: 55%
+- HTML: 100%
+- CSS: 100%
+- C#: 40%
+- JavaScript: 60%
 - Lua: 10%
 - Scratch/Turbowarp: 100%
-- Apple Shortcuts: 95%
+- Apple Shortcuts: 100%
+- SCSS: 5%
 
 <div align="center">
   <img style="width: 100px; height: 100px;" src="images/html5.png">
@@ -22,6 +23,7 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
   <img style="width: 100px; height: 100px;" src="images/scratch.png">
   <img style="width: 100px; height: 100px;" src="images/turbowarp.png">
   <img style="width: 100px; height: 100px;" src="images/shortcuts.png">
+  <img style="width: 100px; height: 100px;" src="images/scss.png">
 </div>
 <!---
 InfinityLoopGames/InfinityLoopGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

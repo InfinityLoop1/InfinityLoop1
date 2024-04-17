@@ -7,9 +7,9 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
 ## Languages known:
 - HTML: 100%
 - CSS: 100%
-- C#: 40%
+- C# (Unity): 40%
 - JavaScript: 60%
-- Lua: 10%
+- Lua (Roblox): 10%
 - Scratch/Turbowarp: 100%
 - Apple Shortcuts: 100%
 - SCSS: 5%

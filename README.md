@@ -4,15 +4,17 @@
 
 I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
 
+I also have an unblocked game site at https://infinitygamer.netlify.app
+
 ## Languages known:
 - HTML: 100%
 - CSS: 100%
-- C# (Unity): 40%
-- JavaScript: 60%
+- C# (Unity): 50%
+- JavaScript: 70%
 - Lua (Roblox): 10%
 - Scratch/Turbowarp: 100%
 - Apple Shortcuts: 100%
-- SCSS: 5%
+- SCSS: 35%
 
 <div align="center">
   <img style="width: 100px; height: 100px;" src="images/html5.png">

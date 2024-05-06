@@ -6,6 +6,8 @@ I make games and host them on my website (https://infinityloop1.netlify.app) and
 
 I also have an unblocked game site at https://infinitygamer.netlify.app
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=InfinityLoop1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages known:
 - HTML: 100%
 - CSS: 100%

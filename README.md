@@ -2,9 +2,12 @@
 
 ## I am an indie game developer usually coding at school when I'm not supposed to.
 
-I make games and host them on my website (https://infinityloop1.netlify.app) and my itch.io (https://infinityloopgames.itch.io).
+I have a website, where I release the games I've made: https://infinityloop1.netlify.app
 
-I also have an unblocked game site at https://infinitygamer.netlify.app
+I also release them on my itch: https://infinityloopgames.itch.io
+
+I have an unblocked games website, with over 380 games: https://infinitygamer.netlify.app
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=InfinityLoop1)](https://github.com/ryo-ma/github-profile-trophy)
 

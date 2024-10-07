@@ -1,6 +1,6 @@
 # Hi, I’m InfinityLoop (he/him/his).
 
-## I am an indie game developer usually coding at school when I'm not supposed to.
+## I am a website and game developer usually coding at school when I'm not supposed to.
 
 I have an unblocked games website, with over 390 games: https://infinitygamer.netlify.app
 

@@ -7,6 +7,7 @@
 [Join my Discord server!](https://discord.gg/R5GtednxZ5)
 
 </div>
+
 - I'm currently working on my unblocked games site: [InfinityGamer](https://github.com/InfinityGamer-Game-Site/InfinityGamer).
 - I need to make my new personal site soon lol
 - I'm currently learning Python

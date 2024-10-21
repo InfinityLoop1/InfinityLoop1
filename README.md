@@ -24,6 +24,11 @@ I am a website and game developer usually coding at school when I'm not supposed
 [![GitHub Streak](https://streak-stats.demolab.com?user=InfinityLoop1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoop1&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=infinityloop1&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Coding Languages known:
 - HTML: 100%

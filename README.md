@@ -2,7 +2,7 @@
   
 # Hi, I’m InfinityLoop (he/him/his - male).
 
-### I am a website and game developer usually coding at school when I'm not supposed to.
+I am a website and game developer usually coding at school when I'm not supposed to.
 
 </div>
 

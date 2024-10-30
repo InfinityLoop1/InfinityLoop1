@@ -23,7 +23,7 @@ I am a frontend website and Unity game developer usually coding at school when I
 ### What I'm learning
 - I am learning Python
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=InfinityLoop1&theme=onedark&title=-Reviews,-Experience)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=InfinityLoop1&theme=onedark&title=-Reviews,-Experience)
 [![GitHub Streak](https://streak-stats.demolab.com?user=InfinityLoop1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityLoop1&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=infinityloop1&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)

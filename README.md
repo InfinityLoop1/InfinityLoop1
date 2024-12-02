@@ -48,7 +48,6 @@ I am a frontend website and Unity game developer usually coding at school when I
 - Visual Studio Code
 
 ## Other things
-[Join my Discord server!](https://discord.gg/R5GtednxZ5)
 
 I also make instrumental electronic music, [Half of Infinity on Spotify](https://open.spotify.com/artist/6AD2E3l8Az67OnlbsWG5Fb)
 

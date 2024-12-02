@@ -13,7 +13,6 @@ I am a frontend website and Unity game developer usually coding at school when I
 
 
 ### What I'm working on
-- A new unblocked games site with [tf7software](https://github.com/tf7software), called [LupineVault](https://github.com/LupineVault).
 - Some Unity games, I'm working on one inspired by [N-Gon](https://github.com/landgreen/n-gon)
 
 ### What I want to make

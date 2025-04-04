@@ -14,6 +14,7 @@ I am a frontend website and Unity game developer usually coding at school when I
 
 ### What I'm working on
 - Some Unity games, I'm working on one inspired by [N-Gon](https://github.com/landgreen/n-gon)
+- Frontend developer for [RED by LupineVault](https://lupine.red)
 
 ### What I want to make
 - I need to make my new personal site soon lol

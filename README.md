@@ -4,12 +4,13 @@
   
 # Hi, I’m InfinityLoop (he/him/his - male).
 
-
-
-I am a frontend website and Unity game developer usually coding at school when I'm not supposed to.
-
 </div>
 
+### Who I Am
+- Frontend Web Developer
+- Unity Game Developer
+- Electronic Music Producer
+- Co-founder of [LupineVault](https://lupinevault.com)
 
 
 ### What I'm working on
@@ -17,11 +18,13 @@ I am a frontend website and Unity game developer usually coding at school when I
 - Frontend developer for [RED by LupineVault](https://lupine.red)
 
 ### What I want to make
-- I need to make my new personal site soon lol
-- I want to make a game development website similar to Scratch, just in a text-based language, built in JavaScript
+- I need to make my new personal site soon, I've been pushing it off
+- I want to make a coding language similar to Python, Javascript, and the children's educational coding language Scratch.
 
 ### What I'm learning
-- I am learning Python
+- Python
+- C++
+- Arduino
 
 ## Stats
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=InfinityLoop1&theme=onedark&title=-Reviews,-Experience)
@@ -39,23 +42,11 @@ I am a frontend website and Unity game developer usually coding at school when I
 - Apple Shortcuts: 100%
 - SCSS: 50%
 - Python: 10% (Learning)
-- C++: 10% (Started learning then stopped)
+- C++: 10% (Learning)
 
 ### Tools used:
-- Arduino (I like messing around with it)
+- Arduino
 - Unity
-- Blender (for Unity games)
-- Git/Github
+- Blender
+- Git, Github, Gitlab
 - Visual Studio Code
-
-## Other things
-
-I also make instrumental electronic music, [Half of Infinity on Spotify](https://open.spotify.com/artist/6AD2E3l8Az67OnlbsWG5Fb)
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/InfinityLoop1/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/InfinityLoop1/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/InfinityLoop1/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<!---
-InfinityLoopGames/InfinityLoopGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
